@@ -1,0 +1,13 @@
+C:\Users\d3nis\source\repos\procesareaDatelor\procesareaDatelor\bin\Debug\netcoreapp3.1\procesareaDatelor.exe
+C:\Users\d3nis\source\repos\procesareaDatelor\procesareaDatelor\bin\Debug\netcoreapp3.1\procesareaDatelor.deps.json
+C:\Users\d3nis\source\repos\procesareaDatelor\procesareaDatelor\bin\Debug\netcoreapp3.1\procesareaDatelor.runtimeconfig.json
+C:\Users\d3nis\source\repos\procesareaDatelor\procesareaDatelor\bin\Debug\netcoreapp3.1\procesareaDatelor.runtimeconfig.dev.json
+C:\Users\d3nis\source\repos\procesareaDatelor\procesareaDatelor\bin\Debug\netcoreapp3.1\procesareaDatelor.dll
+C:\Users\d3nis\source\repos\procesareaDatelor\procesareaDatelor\bin\Debug\netcoreapp3.1\procesareaDatelor.pdb
+C:\Users\d3nis\source\repos\procesareaDatelor\procesareaDatelor\obj\Debug\netcoreapp3.1\procesareaDatelor.csprojAssemblyReference.cache
+C:\Users\d3nis\source\repos\procesareaDatelor\procesareaDatelor\obj\Debug\netcoreapp3.1\procesareaDatelor.AssemblyInfoInputs.cache
+C:\Users\d3nis\source\repos\procesareaDatelor\procesareaDatelor\obj\Debug\netcoreapp3.1\procesareaDatelor.AssemblyInfo.cs
+C:\Users\d3nis\source\repos\procesareaDatelor\procesareaDatelor\obj\Debug\netcoreapp3.1\procesareaDatelor.csproj.CoreCompileInputs.cache
+C:\Users\d3nis\source\repos\procesareaDatelor\procesareaDatelor\obj\Debug\netcoreapp3.1\procesareaDatelor.dll
+C:\Users\d3nis\source\repos\procesareaDatelor\procesareaDatelor\obj\Debug\netcoreapp3.1\procesareaDatelor.pdb
+C:\Users\d3nis\source\repos\procesareaDatelor\procesareaDatelor\obj\Debug\netcoreapp3.1\procesareaDatelor.genruntimeconfig.cache
